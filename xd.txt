@@ -1,5 +1,5 @@
-        Titulo
-    Subtitulo   
+        Titulo Modificado      
+    Subtitulo   2
 
-    Parrafo masomenos largo le pongo algunas palabras ...
-
+    Parrafo masomenos largo le pongo algunas palabras palabra1 marijuana computadora manteca de mani...
+    esribo un poquito mas por aca..
